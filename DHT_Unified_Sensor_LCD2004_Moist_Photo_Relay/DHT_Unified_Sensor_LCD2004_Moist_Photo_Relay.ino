@@ -6,10 +6,9 @@
 // Depends on the following Arduino libraries:
 // - Adafruit Unified Sensor Library: https://github.com/adafruit/Adafruit_Sensor
 // - DHT Sensor Library: https://github.com/adafruit/DHT-sensor-library
-// - 충돌 발생으로 수정한 버전임.
+// - 충돌 발생으로 수정한 버전임.노트북버젼
 
 /* 1. 필요한 라이브러리 블러오기(import needed library)  --------------------------------------- */ 
-
 #include <SPI.h>
 #include <Wire.h>
 #include <Adafruit_Sensor.h>
