@@ -6,7 +6,7 @@
 // Depends on the following Arduino libraries:
 // - Adafruit Unified Sensor Library: https://github.com/adafruit/Adafruit_Sensor
 // - DHT Sensor Library: https://github.com/adafruit/DHT-sensor-library
-// - LCD 2004 Library : 추가해야함.
+// - LCD 2004 Library : 추가해야함. //브랜치 생성한 후, 수정하고 있음.
 
 /* 1. 필요한 라이브러리 블러오기(import needed library)  --------------------------------------- */ 
 
