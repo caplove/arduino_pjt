@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/caplove/arduino_pjt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/caplove/arduino_pjt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+선언 위치로 이동: F12
+구현 위치로 이동: Ctrl + F12
+모든 참조 찾기: Shift + F12
+주석처리: Ctrl + K, C
+주석취소: Ctrl + K, U
+IntelliSense(자동완성): Ctrl + Space
+파일에서 찾기: Ctrl + Shift + F
+다음 찾기: F3
+이전 찾기: Shift + F3
+탐색: Ctrl + ,
+솔루션 탐색: Ctrl + ;
+솔루션탐색기에서 활성 문서 동기화: Ctrl + [, S
+뒤로가기: Ctrl + -
+앞으로가기: Ctrl + Shift + -
+활성문서닫기: Ctrl + F4
+디버깅: F5
+디버깅 중지: Shift + F5
+한 단계식 실행: F11
+한 프로시져 실행: F10
+프로시져 나가기: Shift + F11
+출처: http://ggobugi.tistory.com/252 [ggobugi's Blog]
