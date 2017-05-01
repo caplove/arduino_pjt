@@ -7,7 +7,9 @@
 // - Adafruit Unified Sensor Library: https://github.com/adafruit/Adafruit_Sensor
 // - DHT Sensor Library: https://github.com/adafruit/DHT-sensor-library
 //
-// -2차 충돌로 수정함.
+// -2차 충돌로 수정함.1.0이후 변경점
+// Visual Studio Code로 수정해봄... Visual Studio와 Source Tree로만 수정함.
+// VS 2015는 좀 복잡함.
 
 /* 1. 필요한 라이브러리 블러오기(import needed library)  --------------------------------------- */ 
 #include <SPI.h>
