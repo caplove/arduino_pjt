@@ -1,4 +1,5 @@
- #include "LedControl.h"
+// VS의 vMicro로 수정함. VS와 GIT 연동 확인용임.
+#include "LedControl.h"
 
 
 // 핀배열 선언하기
