@@ -1,4 +1,6 @@
 // VS의 vMicro로 수정함. VS와 GIT 연동 확인용임.
+// Vmicro > Open Existing arduino pjt 
+// 보기(V) > 솔루션 탐색기 
 #include "LedControl.h"
 
 
