@@ -1,12 +1,18 @@
- #include "LedControl.h"
+/*2017. Visual Studio로 Github repo만들고 
+vMicro로 complie 하기위해 existing ino 파일 열고 에디팅
+솔루션 탐색기 - 폴더보기 상태에서 
+LED8x8 우측키 누르면, 커밋옵션 보임.
+끝나고, Github로 commit 함 */
+
+#include "LedControl.h"
 
 
 // 핀배열 선언하기
  
-LedControl lc=LedControl(22,26,24,1);   // Pins: DIN,CLK,CS,디스플레이개수
+LedControl lc=LedControl(22,26,24,4);   // Pins: DIN,CLK,CS,디스플레이개수
 
 // 프레임 사이의 지연 시간
-unsigned long delayTime=800;   // ms 단위
+unsigned long delayTime=1000;   // ms 단위
  
 // Put values in arrays
 // 어레이에 넣는 이미지들 HNY는 해피 뉴 이어 입니다.
